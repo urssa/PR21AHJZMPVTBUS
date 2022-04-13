@@ -1,4 +1,4 @@
-# Vmesno poročilo o Prometnih nesrečah v Sloveniji
+# Vmesno poročilo o okoliščinah prometnih nesreč v Sloveniji
 
 ## Opis problema
 
